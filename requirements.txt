@@ -1,0 +1,7 @@
+pyspark
+pandas
+numpy
+plotly
+kaleido
+jupyter
+ipykernel
